@@ -1,0 +1,11 @@
+Single Room image = https://pix10.agoda.net/hotelImages/554/5547527/5547527_18080111100067219956.png?ca=13&ce=1&s=1024x768
+
+Double Room image = https://media-cdn.tripadvisor.com/media/photo-s/05/eb/3a/81/jeju-oriental-hotel.jpg
+
+Triple Room image = https://www.maldronhotelparnellsquare.com/wp-content/uploads/sites/23/2018/01/Maldron-Standard-Triple.jpg
+
+Twin Bedded Room Image = https://en.hoteltheflag.jp/overview/rooms/img/stt.jpg
+
+Queen Bedroom Image = https://www.etravelweek.com/sites/default/files/inline-images/Queen,P20room.jpg.pagespeed.ce.1nz06cTlBt.jpg
+
+King Bedroom Image = https://www.etravelweek.com/sites/default/files/inline-images/xKing,P20room.jpg.pagespeed.ic.GlDFHxs88I.jpg

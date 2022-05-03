@@ -1,0 +1,17 @@
+Waiting Lounge Image = https://dimg04.c-ctrip.com/images//200v0g0000008d5up44AF_R_550_412_R5.jpg
+
+Gaming Room Image = https://www.capitaldesignworks.com.au/wp-content/uploads/2021/02/PXL_20210111_022147267-scaled.jpg
+
+Banquet Image = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Li_lZcXAMecRHHrdwWTDq5LMj-xpgkRaBA&usqp=CAU
+
+Bar Room Image = https://ihg.scene7.com/is/image/ihg/Hotel-Indigo-Berlin-East-Side-Gallery-Gallery-Rooftop-Bar-720X720
+
+Swimming Pool Image = https://richmondehoteliloilo.com.ph/wp-content/uploads/2020/06/facilities-pool-0001.jpg
+
+Sauna Image = https://www.dasgerstl.com/fileadmin/user_upload/entspannung-wellness-spa/saunen/lehmsauna/lehm-gerstensauna_2.jpg
+
+Restaurant Image = https://eatapp.co/dubai-restaurants/images/feast-restaurant-sheraton-grand-hotel-trade-centre-area-restaurant-1.jpg?height=500&width=850
+
+Car Parking Image = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XxtIFJo6oeg7Ug4ntvf8Azb-U-BjHP4GPw&usqp=CAU
+
+Fitness Area Image = https://images.squarespace-cdn.com/content/v1/5ada11772714e5eb213ab1df/1579727869863-5WR1WU5CWSTEBGKC1Y1O/Why+Do+Hotels+Need+Fitness+Centers.jpg?format=1000w
